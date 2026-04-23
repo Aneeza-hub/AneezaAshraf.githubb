@@ -1,4 +1,4 @@
-# 💻 Project Reflection
+#  Project Reflection
 
 ## **Project Title**
 
