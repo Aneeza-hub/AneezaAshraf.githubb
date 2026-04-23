@@ -1,4 +1,4 @@
-# 🧠 Skills & Career Development Plan
+#  Skills & Career Development Plan
 
 ## **Current Skills**
 
