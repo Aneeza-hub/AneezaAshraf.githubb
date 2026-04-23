@@ -34,4 +34,4 @@ To document my **learning journey, skills development, and professional growth**
 
 ---
 
-⭐ *This portfolio reflects my progress, learning, and real-world understanding of software development.*
+*This portfolio reflects my progress, learning, and real-world understanding of software development.*
