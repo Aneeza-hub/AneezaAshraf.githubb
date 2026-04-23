@@ -1,4 +1,4 @@
-# 🏢 Industry Interaction Reflection
+#  Industry Interaction Reflection
 
 ## **What I Learned**
 
