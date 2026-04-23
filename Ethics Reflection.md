@@ -1,4 +1,4 @@
-# ⚖️ Ethics Reflection
+#  Ethics Reflection
 
 ## **Ethical Issue Chosen**
 
