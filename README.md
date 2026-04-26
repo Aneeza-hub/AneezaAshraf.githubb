@@ -7,6 +7,10 @@
 
 ---
 
+![Student](https://img.shields.io/badge/Student-Aneeza%20Ashraf-002d5b?style=flat-square)
+![Semester](https://img.shields.io/badge/Semester-IV--B-0077b6?style=flat-square)
+![Course](https://img.shields.io/badge/Course-Capstone%20%26%20Professional%20Practices-00aeef?style=flat-square)
+![Instructor](https://img.shields.io/badge/Instructor-Ma'am%20Aroosa%20Mubeen-48cae4?style=flat-square)
 
 </div>
 
